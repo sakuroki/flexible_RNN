@@ -1,5 +1,8 @@
-﻿This is the source code for a thesis on preprint server bioRxiv, "Common features in plastic changes rather than constructed structures in recurrent neural network prefrontal cortex models".
-http://www.biorxiv.org/content/early/2017/08/28/181297
+﻿This is the source code for a thesis on Frontiors on computational neuroscience  "Task-Related Synaptic Changes Localized to Small Neuronal Population in Recurrent Neural Network Cortical Models".
+ https://www.frontiersin.org/articles/10.3389/fncom.2018.00083/full
+ 
+(bioRxiv, "Common features in plastic changes rather than constructed structures in recurrent neural network prefrontal cortex models".
+http://www.biorxiv.org/content/early/2017/08/28/181297)
 
 These scripts were mainly written in Python2.7 and C++ (only in rHebb model) and requires Theano, Numpy, Matplotlib, Pandas and Seaborn Python libraries. The analysis and visualization of the model structures in the paper were done additionally with Scipy, Statsmodels in Jupyter notebook.
 
