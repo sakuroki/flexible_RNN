@@ -1,5 +1,5 @@
 ﻿This is the source code for a thesis on Frontiors on computational neuroscience  "Task-Related Synaptic Changes Localized to Small Neuronal Population in Recurrent Neural Network Cortical Models".
- https://www.frontiersin.org/articles/10.3389/fncom.2018.00083/full
+https://www.frontiersin.org/articles/10.3389/fncom.2018.00083/full
  
 (bioRxiv, "Common features in plastic changes rather than constructed structures in recurrent neural network prefrontal cortex models".
 http://www.biorxiv.org/content/early/2017/08/28/181297)
